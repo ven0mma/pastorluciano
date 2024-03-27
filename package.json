@@ -1,0 +1,23 @@
+{
+  "name": "pastorluciano",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ven0mma/pastorluciano.git"
+  },
+  "dependencies": {
+    "pastorluciano": "1.0.0",
+    "tea-demonstrationdulenkoaleksandr": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ven0mma/pastorluciano/issues"
+  },
+  "homepage": "https://github.com/ven0mma/pastorluciano#readme"
+}
